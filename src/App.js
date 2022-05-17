@@ -8,6 +8,7 @@ function App() {
        <h1>Test deploy react</h1>
        <h2>It's work </h2>
        <h2><bold>promise me</bold></h2>
+       <p>Nah fuckin react</p>
       </header>
     </div>
   );

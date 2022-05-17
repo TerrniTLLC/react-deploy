@@ -10,6 +10,7 @@ function App() {
        <h2><bold>promise me</bold></h2>
        <p>Nah fuckin react</p>
        <p>Trynna 2 times in row</p>
+       <p>Trynna 3 times in row</p>
       </header>
     </div>
   );
